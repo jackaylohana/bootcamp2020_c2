@@ -10,6 +10,7 @@ function App() {
         <p>
           <s>Edit <code>src/App.js</code> and save to reload.</s>
           <h1>Hello Star Stuff from Jack!</h1>
+          <h2>Let's learn React togather.</h2>
         </p>
         <a
           className="App-link"
