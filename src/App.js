@@ -11,6 +11,7 @@ function App() {
           <s>Edit <code>src/App.js</code> and save to reload.</s>
           <h1>Hello Star Stuff from Jack!</h1>
           <h2>Let's learn React togather.</h2>
+          <h3>Don't react just relax. You're going to have lots of fun. Cheers!</h3>
         </p>
         <a
           className="App-link"
